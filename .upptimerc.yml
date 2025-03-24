@@ -27,6 +27,12 @@ sites:
     url: https://hub.xdark.top
   - name: dockerhub.timeweb.cloud
     url: https://dockerhub.timeweb.cloud
+  - name: dislabaiot.xyz
+    url: https://dislabaiot.xyz
+  - name: dockerproxy.com
+    url: https://dockerproxy.com  
+  - name: docker.fxxk.dedyn.io
+    url: https://docker.fxxk.dedyn.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -36,7 +42,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: registry-mirrors
   introTitle: "欢迎访问 ***[registry-mirrors.top](https://registry-mirrors.top)***，您的容器镜像加速器状态监控平台。"
-  introMessage: "我们致力于为开发者和运维团队提供实时的容器镜像加速器状态监控服务，帮助您快速了解各大镜像镜像加速器的健康状况、响应速度和可用性。通过直观的数据展示和详细的性能分析，registry-mirrors.top 助您优化容器镜像拉取体验，提升开发和部署效率。无论是 Docker Hub、Google Container Registry 还是其他主流镜像仓库，我们都能为您提供精准的监控和告警服务，确保您的容器化应用始终高效运行。"
+  introMessage: "我们致力于为开发者和运维团队提供实时的容器镜像加速器状态监控服务，帮助您快速了解各大镜像镜像加速器的健康状况、响应速度和可用性。通过直观的数据展示和详细的性能分析，registry-mirrors.top 助您优化容器镜像拉取体验，提升开发和部署效率。为您提供精准的监控和告警服务，确保您的容器化应用始终高效运行。"
   navbar:
     - title: Home
       href: https://registry-mirrors.top/
