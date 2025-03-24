@@ -1,6 +1,6 @@
 # Change these first
 owner: VoroninaYanina # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: status # The name of this repository
 
 sites:
   - name: hub.registry-mirrors.top
@@ -27,12 +27,12 @@ sites:
     url: https://hub.xdark.top
   - name: dockerhub.timeweb.cloud
     url: https://dockerhub.timeweb.cloud
-    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: registry-mirrors.top
-  baseUrl: /upptime
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: registry-mirrors
   introTitle: "欢迎访问 **[registry-mirrors.top](https://registry-mirrors.top)**，您的容器镜像加速器状态监控平台。"
