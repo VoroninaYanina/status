@@ -8,7 +8,7 @@ sites:
   - name: docker.mybacc.com
     url: https://docker.mybacc.com
   - name: docker.zhai.cm
-    url: https://docker.zhai.cm- 
+    url: https://docker.zhai.cm
   - name: docker.1ms.run
     url: https://docker.1ms.run
   - name: dytt.online
@@ -35,7 +35,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: registry-mirrors
-  introTitle: "欢迎访问 **[registry-mirrors.top](https://registry-mirrors.top)**，您的容器镜像加速器状态监控平台。"
+  introTitle: "欢迎访问 ***[registry-mirrors.top](https://registry-mirrors.top)***，您的容器镜像加速器状态监控平台。"
   introMessage: "我们致力于为开发者和运维团队提供实时的容器镜像加速器状态监控服务，帮助您快速了解各大镜像镜像加速器的健康状况、响应速度和可用性。通过直观的数据展示和详细的性能分析，registry-mirrors.top 助您优化容器镜像拉取体验，提升开发和部署效率。无论是 Docker Hub、Google Container Registry 还是其他主流镜像仓库，我们都能为您提供精准的监控和告警服务，确保您的容器化应用始终高效运行。"
   navbar:
     - title: Status
@@ -45,5 +45,6 @@ status-website:
 
 i18n:
   footer: © 2025 registry-mirrors 容器镜像加速器. All rights reserved.
+  activeIncidents: 监控到的故障
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
