@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: Test Broken Site 2
     url: https://thissitedoesnotexist.koj.co
   - name: k8s registry mirror
     url: https://k8s.registry-mirrors.top
