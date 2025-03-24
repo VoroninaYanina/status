@@ -13,6 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: docker hub registry mirror
     url: https://hub.registry-mirrors.top
+  - name: k8s registry mirror
+    url: https://k8s.registry-mirrors.top
   - name: IPv6 test
     url: forwardemail.net
     port: 80
