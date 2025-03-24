@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.zhai.cm.ico",
     "slug": "docker-zhai-cm",
     "status": "up",
-    "uptime": "52.52%",
-    "uptimeDay": "52.52%",
-    "uptimeWeek": "52.52%",
-    "uptimeMonth": "52.52%",
-    "uptimeYear": "52.52%",
+    "uptime": "52.67%",
+    "uptimeDay": "52.67%",
+    "uptimeWeek": "52.67%",
+    "uptimeMonth": "52.67%",
+    "uptimeYear": "52.67%",
     "time": 103,
     "timeDay": 103,
     "timeWeek": 103,
@@ -126,7 +126,7 @@
     "timeMonth": 192,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-03-24": 45
+      "2025-03-24": 46
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 45
+      "2025-03-24": 46
     }
   },
   {
