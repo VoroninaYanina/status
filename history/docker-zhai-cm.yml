@@ -1,7 +1,7 @@
 url: https://docker.zhai.cm
-status: up
-code: 200
-responseTime: 230
-lastUpdated: 2025-03-28T03:51:37.619Z
+status: down
+code: 429
+responseTime: 166
+lastUpdated: 2025-03-28T20:46:53.306Z
 startTime: 2025-03-24T09:24:12.989Z
 generator: Upptime <https://github.com/upptime/upptime>
