@@ -1,7 +1,7 @@
 url: https://docker.fxxk.dedyn.io
-status: up
-code: 200
-responseTime: 706
-lastUpdated: 2025-03-29T08:51:35.944Z
+status: down
+code: 404
+responseTime: 266
+lastUpdated: 2025-03-29T09:30:12.491Z
 startTime: 2025-03-24T22:59:54.218Z
 generator: Upptime <https://github.com/upptime/upptime>
